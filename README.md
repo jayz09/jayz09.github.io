@@ -19,18 +19,18 @@ Currently no real-life work experience projects. However, you can refer to my pr
 
 ## Skills
 
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks:** Django, React, Angular, Spring Boot
-- **Tools:** Git, Docker, Jenkins, Kubernetes
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Cloud Services:** AWS, Azure, Google Cloud
+- **Languages:** HTML, CSS, JavaScript, C/C++, Python
+- **Frameworks:** React.js, Bootstrap
+- **Tools:** Git
+- **Databases:** MySQL
+- **Cloud Services:** Google Cloud
 
 ## Contact
 
 Feel free to reach out if you have any questions, opportunities, or just want to connect!
 
 - **Email:** [j.m.tedjo@gmail.com](mailto:j.m.tedjo@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **LinkedIn:** [Jason Melvin Tedjokusumo](https://www.linkedin.com/in/jason-tedjokusumo-3807312b0/)
 - **Facebook:** [Jason Melvin Tedjokusumo](https://www.facebook.com/profile.php?id=100007022356843)
 - **Instagram:** [@jasonmt_](https://www.instagram.com/jasonmt_/)
 
