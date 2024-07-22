@@ -14,23 +14,8 @@ Hi, I'm Jason Melvin Tedjokusumo, a passionate software developer with a strong 
 
 ## Projects
 
-### Project 1: [Project Name](link-to-repo)
-- **Description:** A brief description of what the project is about.
-- **Technologies:** List of technologies used (e.g., Python, Django, React).
-- **Features:** Key features or functionalities of the project.
-- **Demo:** [Live Demo](link-to-demo) (if available).
+Currently no real-life work experience projects. However, you can refer to my projects and assignments I did in University. For more details, check out the [documentation](https://github.com/jayz09/University_hw-and-projects).
 
-### Project 2: [Project Name](link-to-repo)
-- **Description:** A brief description of what the project is about.
-- **Technologies:** List of technologies used (e.g., JavaScript, Node.js, Express).
-- **Features:** Key features or functionalities of the project.
-- **Demo:** [Live Demo](link-to-demo) (if available).
-
-### Project 3: [Project Name](link-to-repo)
-- **Description:** A brief description of what the project is about.
-- **Technologies:** List of technologies used (e.g., Java, Spring Boot, MySQL).
-- **Features:** Key features or functionalities of the project.
-- **Demo:** [Live Demo](link-to-demo) (if available).
 
 ## Skills
 
