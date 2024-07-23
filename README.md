@@ -31,7 +31,7 @@ Feel free to reach out if you have any questions, opportunities, or just want to
 
 - **Email:** [j.m.tedjo@gmail.com](mailto:j.m.tedjo@gmail.com)
 - **LinkedIn:** [Jason Melvin Tedjokusumo](https://www.linkedin.com/in/jason-tedjokusumo-3807312b0/)
-- **Facebook:** [Jason Melvin Tedjokusumo](https://www.facebook.com/profile.php?id=100007022356843&mibextid=LQQJ4d)
+- **Facebook:** [Jason Melvin Tedjokusumo](https://www.facebook.com/profile.php?id=100007022356843)
 - **Instagram:** [@jasonmt_](https://www.instagram.com/jasonmt_/)
 
 Thank you for visiting my portfolio!
