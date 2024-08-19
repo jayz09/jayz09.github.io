@@ -6,6 +6,18 @@ html {
     background-color: #434f4c;
 }
 
+.navbar {
+    transition: background-color 0.3s ease;
+}
+
+.navbar.scrolled {
+    background-color: #2c3633;
+}
+
+.navbar.scrolled .nav-link {
+    color: white;
+}
+
 .imgContainer {
     width: 250px;
     height: 250px;
